@@ -1,0 +1,90 @@
+.welcome{
+    background-image: url(./assets/backgrounds/h_img.jpg);
+    color: white;
+    background-size: cover;
+    text-align: center;
+    background-position: center;
+    padding-top: 20%;font-family: serif;
+    background-repeat: no-repeat;
+
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.MouseClick{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.about-us{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:40px;
+    font-family:  serif;
+}
+.services{
+    background-image: url(./assets/backgrounds/s_image.jpg);
+    text-align: center;
+    color: white;
+    font-family: serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 15%;
+}
+.what-we-do{
+    text-align: center;
+    font-family: serif;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+#hover{
+    text-align: center;
+}
+
+.text-area{
+    max-width: 100%;
+    max-height: 40%;
+}
+
+.contact-us{
+    background-image: url(./assets/backgrounds/c_image.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    align-items: center;
+  }
+.contact-header{
+    font-family: serif;
+    text-align: center;
+    color:white
+}
+.form-inline{
+    align-items: center;
+}
+.t-area{
+    min-width: 100%;
+}
+input[type=text],input[type=email],#comment{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: 'Copse', serif;
+  }
+  
+.contact-us{
+    font-family: serif;
+    color: white;
+    background-size:cover;
+    display: cover;
+    padding: 8%;
+    padding-bottom: 0%;
+}
+
+.form-control::placeholder{
+    color: white;
+}
