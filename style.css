@@ -44,19 +44,17 @@
 #hover{
     text-align: center;
 }
-
-.text-area{
-    max-width: 100%;
-    max-height: 40%;
-}
-
 .contact-us{
     background-image: url(./assets/backgrounds/c_image.jpg);
-    background-position: center center;
-    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: contain;
     color: white;
     align-items: center;
+    font-family: serif;
+    padding: 20%;
+    padding-top: 20px;
+    padding-bottom: 0%;
   }
 .contact-header{
     font-family: serif;
@@ -66,25 +64,14 @@
 .form-inline{
     align-items: center;
 }
-.t-area{
-    min-width: 100%;
-}
+
 input[type=text],input[type=email],#comment{
     background: transparent;
     color: white;
     font-size: 20px;
     font-family: 'Copse', serif;
-  }
-  
-.contact-us{
-    font-family: serif;
-    color: white;
-    background-size:cover;
-    display: cover;
-    padding: 8%;
-    padding-bottom: 0%;
 }
-
+  
 .form-control::placeholder{
     color: white;
 }
