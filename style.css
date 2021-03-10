@@ -88,3 +88,10 @@ input[type=text],input[type=email],#comment{
 .form-control::placeholder{
     color: white;
 }
+.footer{
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: x-small;
+    align-content: center;
+}
