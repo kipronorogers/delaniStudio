@@ -38,4 +38,4 @@ After submitting a form, you get a pop up message acknowledging receipt of the i
 
 LICENSE:
 MIT License
-Copyright2021@Rkiprono
+Copyright(c)2021@RogersKipronoRuto
