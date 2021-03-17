@@ -9,6 +9,8 @@ Kiprono Rogers Ruto.
 
 LINKS:
 github link: https://github.com/kipronorogers/delaniStudio.git
+
+
 gh-pages/live link: 
 
 
@@ -22,7 +24,7 @@ Open index.html file
 TECHNOLOGIES USED:
 
 BUGS:
-There are no known bugs.
+MailChimp isnt working.
 MailChimp takes a few minutes to load.
 
 .HTML5
