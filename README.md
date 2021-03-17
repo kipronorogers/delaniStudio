@@ -11,7 +11,7 @@ LINKS:
 github link: https://github.com/kipronorogers/delaniStudio.git
 
 
-gh-pages/live link: 
+gh-pages/live link: https://kipronorogers.github.io/delaniStudio/
 
 
 SETUP:

@@ -65,7 +65,7 @@
     align-items: center;
 }
 
-input[type=text],input[type=email],#comment,#name,#mail{
+input[type=text],input[type=email],#comment1,#name1,#mail1{
     background: transparent;
     color: white;
     font-size: 20px;
